@@ -17,7 +17,6 @@ As a marketing agency we want our code to be accessible to a wide array of custo
 ## Lauch Application
 [website]"https://github.com/CoderLeE920/01-Home-Work-Coder-Refactor.git"
 
-![Github Logo](C:\Users\Name\Desktop\Clones\01-Home-Work-Coder-Refactor\Develop\assets\images\Screenshot.img.png)[screenshot]
-
+![Github logo](https://github.com/CoderLeE920/01-Home-Work-Coder-Refactor/blob/main/Develop/assets/images/Screenshot.img.png?raw=true)
 
 # Made by Horiseon 
